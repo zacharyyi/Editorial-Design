@@ -52,10 +52,6 @@ body {
 
 .two {
   background: var(--gradient-7);
-
-
-
- 
 }
 
 .three {
@@ -81,7 +77,7 @@ body {
 p {
   width: 80%;
   line-height: 2.5;
-  font-size: 20px; 
+  font-size: 13px; 
 }
 
 .red {
